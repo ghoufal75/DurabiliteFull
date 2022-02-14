@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/DurabilitePlugin" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
